@@ -16,10 +16,11 @@
 
 <br/>
 
-![Ceren's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceren-kaplan&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=ceren-kaplan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceren-kaplan&layout=compact)](https://github.com/ceren-kaplan/github-readme-stats)
+### GitHub Analytics 📊
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ceren-kaplan&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
 
