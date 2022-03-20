@@ -20,4 +20,4 @@
 
 ### GitHub Analytics 📊
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceren-kaplan&&show_icons=true&icon_color=bb2acf&text_color=001f4d&bg_color=151515"layout=compact)](https://github.com/ceren-kaplan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceren-kaplan&&show_icons=true&layout=compact)](https://github.com/ceren-kaplan/github-readme-stats)
